@@ -7,7 +7,7 @@
 </head>
 <body style="font-family:arial;">
 
-<h3 style="font-size:500%;">Personal Information</h3>
+<h3 style="font-size:500%;text-align:center;">Personal Information</h3>
 <h5 style="font-size:300%;">Name</h5>
 <p style="font-size:150%;">Chelsea Parnell</p>
 <br>
@@ -37,7 +37,7 @@
 <img src="thumbnail_IMG_2006.jpg" width="600" height="800">
 <br>
 
-<h3 style="font-size:500%;">Interest In IT</h3>
+<h3 style="font-size:500%;text-align:center:">Interest In IT</h3>
 <h5 style="font-size:300%;">What is your interest in IT? When did your interest in IT start? Was 
  there a particular event or person that sparked your interest? Outline your
  IT experience (if any).</h5>
@@ -71,7 +71,7 @@
   excited to widen my scope.</p>
 <br>
 
-<h3 style="font-size:500%;">Ideal Job </h5>
+<h3 style="font-size:500%;text-align:center;">Ideal Job </h5>
 <h5 style="font-size:300%;"> What is the job itself?</h5>
 <p style="font-size:150%;">Ideally I would love to be self-employed as a Project Manager, focusing
  on the education sector. This is because of my prior experience, and my
@@ -140,7 +140,7 @@ target="_blank">IT Project Manager</a>
  chance of success.</p>
 <br>
 
-<h3 style="font-size:500%">Personal Profile</h3>
+<h3 style="font-size:500%;font-align:center;">Personal Profile</h3>
 <h5 style="font-size:300%;">Myers Briggs Type</h5>
 <p style="font-size:150%;">My result is ENFP or The Campaigner, and can be explained as someone who
  tends to embrace big ideas and actions that reflect their sense of hope and
