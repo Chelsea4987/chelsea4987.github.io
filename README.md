@@ -1,7 +1,5 @@
 # Assignment_1
  COSC2196 Assignment 1 19/09/2021
-# Auto detect text files and perform LF normalization
-* text=auto
 <!DOCTYPE html> 
 <html lang="en-AU">
 <head>
